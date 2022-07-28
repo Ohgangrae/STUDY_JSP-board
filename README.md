@@ -13,5 +13,5 @@ STUDY_JAVA 레파지토리에서 사용하였던 Model1 방식을 더 이상 사
 <img src="https://user-images.githubusercontent.com/98381603/181426776-6c594d03-078b-4c95-aa8d-16188c1966bc.png" width="40%">
 <img src="https://user-images.githubusercontent.com/98381603/181426793-b9674c05-1ec8-4e04-a433-9e70ae7a1d9e.png" width="40%">
 <img src="https://user-images.githubusercontent.com/98381603/181426798-2c951d7f-72f0-40ea-adb0-a6061ede5398.png" width="40%">
-<img src="https://user-images.githubusercontent.com/98381603/181426801-b83cc013-ecc9-45" width="40%">
+<img src="https://user-images.githubusercontent.com/98381603/181427218-7d49e4c8-6400-4c0a-b092-4a5bef766bd0.png" width="40%">
 <img src="https://user-images.githubusercontent.com/98381603/181426803-3a2a99d5-fc6f-421d-ab36-2fc11695fd70.png" width="40%">
